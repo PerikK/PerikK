@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, Python, MongoDb**
 
-- 👨‍💻 Some of my projects are available at [...Soon](...Soon)
+- 👨‍💻 Some of my projects are available at [https://perik-s-portfolio.netlify.app]()
 
 - 📫 How to reach me **perik76@hotmail.com**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perikk" alt="perikk" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio site**
+- 🔭 I’m currently working at [Ennora Innovation](https://enorainnovation.com)
 
 - 🌱 I’m currently learning **Docker, Python, MongoDb**
 
